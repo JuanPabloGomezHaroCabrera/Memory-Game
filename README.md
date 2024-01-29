@@ -6,7 +6,7 @@ This project implements the classic Memory game in Python, utilizing object-orie
 ## Installation
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/Memory-Game.git
+   git clone https://github.com/JuanPabloGomezHaroCabrera/Memory-Game.git
 
 ## Navigate to the project directory
 cd Memory-Game
